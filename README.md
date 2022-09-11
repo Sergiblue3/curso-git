@@ -1,3 +1,3 @@
 # Curso de Git y GitHub
 
-Hola
+Hello friends
